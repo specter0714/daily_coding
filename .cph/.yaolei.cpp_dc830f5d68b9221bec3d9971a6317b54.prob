@@ -1,0 +1,1 @@
+{"name":"Local: yaolei","url":"d:\\VS_project\\.vscode\\yaolei.cpp","tests":[{"id":1737298881865,"input":"3\n2\n2 1\n2 3","output":"2\n1\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_project\\.vscode\\yaolei.cpp","group":"local","local":true}
